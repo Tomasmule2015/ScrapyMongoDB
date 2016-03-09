@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="renderer" content="webkit" /><meta name="Keywords" /><meta name="Description" /><meta name="robots" content="all" /><title>
 	
-    红豆GG的首页_汽车之家
+    泡芙车评是傻x的首页_汽车之家
 
 </title><link href="http://s.autoimg.cn/com/bo.ashx?path=|as|css-2.0.4|global|autoshow.css,|as|css-2.0.4|infor|focusimg.css,|as|css-2.0.4|infor|tab.css,|as|css-2.0.4|public|form.css,|as|css-2.0.4|public|icon.css,|as|css-2.0.4|public|layer.css,|as|css-2.0.4|public|pop.css,|as|css-2.0.4|public|tip.css,|as|css-2.0.4|public|gotop.css,|as|css-2.0.5|public|alert-debug.css,|as|css-2.0.5|public|btn-debug.css&amp;1434331856355" type="text/css" rel="stylesheet" />
 <link href="http://x.autoimg.cn/Space/content/otherapps.min.css?v=2016030201" type="text/css" rel="stylesheet" />
@@ -157,7 +157,7 @@
             <ul class="t_right t_login" id="right_unlogin" style="display:none;">
                 <li><a href="javascript:showlogin();">登录</a></li>
                 
-                <li><a href="http://account.autohome.com.cn/register?backurl=http%3a%2f%2fi.autohome.com.cn%2f10497576">注册</a></li>
+                <li><a href="http://account.autohome.com.cn/register?backurl=http%3a%2f%2fi.autohome.com.cn%2f18253615">注册</a></li>
             </ul>
             <!--end登录 注册-->
             <!--左侧-->
@@ -255,39 +255,39 @@
     
     <input type="hidden" id="hdsex" value="1" />
     <div class="userHead">
-        <a href="/10497576">
-            <img src="http://x.autoimg.cn/space/images/head_120X120.gif" alt="" /></a></div>
+        <a href="/18253615">
+            <img src="http://i0.autoimg.cn/album/userheaders/2015/7/18/eff7f7b1-c651-4574-8b97-452989a9f3a1_120X120.jpg" alt="" /></a></div>
     <p class="nickname" style="display:none;">
-        红豆GG<a href="http://club.autohome.com.cn/bbs/carOwnerCamp.html" class="sign"
+        泡芙车评是傻x<a href="http://club.autohome.com.cn/bbs/carOwnerCamp.html" class="sign"
                                  target="_blank" title="认证车主"></a></p>
     <div class="fans" style="display:none;">
         <div class="focus" onmouseout="this.className='focus'" onmouseover="this.className='focus fhover'"
-            onclick="window.location.href='/10497576/following'" style="cursor: pointer">
+            onclick="window.location.href='/18253615/following'" style="cursor: pointer">
             <span class="fcolor_1">关注数</span><br />
             <strong>
-                1976</strong></div>
+                1</strong></div>
         <div class="fan" onmouseout="this.className='fan'" onmouseover="this.className='fan fhover'"
-            onclick="window.location.href='/10497576/followers'" style="cursor: pointer">
+            onclick="window.location.href='/18253615/followers'" style="cursor: pointer">
             <span class="fcolor_1">粉丝数</span><br />
             <strong>
-                357</strong></div>
+                1</strong></div>
     </div>
     
     <p class="m_t8 txtCen" id="foucsDiv">
         
-        <a class="b_addFc foucsItem" href="javascript:void(0);" onclick="Follower(10497576,'leftnothing','leftfollwer','leftspfollwing','leftspeach',this);"
+        <a class="b_addFc foucsItem" href="javascript:void(0);" onclick="Follower(18253615,'leftnothing','leftfollwer','leftspfollwing','leftspeach',this);"
             id="leftnothing" style="" leadleft="95">加关注</a>
         
          <a class="b_addFc_oh  foucsItem"
-                href="javascript:void(0);" onclick="Follower(10497576,'leftnothing','leftfollwer','leftspfollwing','leftspeach',this);"
+                href="javascript:void(0);" onclick="Follower(18253615,'leftnothing','leftfollwer','leftspfollwing','leftspeach',this);"
                 id="leftfollwer" style="display:none;" leadleft="106">加关注</a> 
         
         <span class="b_hadFc foucsItem"
                     id="leftspfollwing" style="display:none;" leadleft="115">已关注&nbsp;<span class="chr">|</span>&nbsp;<a
-                        class="cancel" href="javascript:void(0);" onclick="UnFollower(10497576,'红豆GG',event,'leftnothing','leftfollwer','leftspfollwing','leftspeach');"
+                        class="cancel" href="javascript:void(0);" onclick="UnFollower(18253615,'泡芙车评是傻x',event,'leftnothing','leftfollwer','leftspfollwing','leftspeach');"
                         id="aremove2">取消</a></span> <span class="b_allFc foucsItem" id="leftspeach" style="display:none;"
                             leadleft="122">相互关注&nbsp;<span class="chr">|</span>&nbsp;<a class="cancel" href="javascript:void(0);"
-                                onclick="UnFollower(10497576,'红豆GG',event,'leftnothing','leftfollwer','leftspfollwing','leftspeach');">取消</a></span>
+                                onclick="UnFollower(18253615,'泡芙车评是傻x',event,'leftnothing','leftfollwer','leftspfollwing','leftspeach');">取消</a></span>
     </p>
     <p class="m_t8 txtCen">
         <a class="b_sandPm" href="###" id="sendpm_his">给他发私信</a>
@@ -300,11 +300,11 @@
                 通用</h4>
             <ul class="item">
                 <li class='current'><a class="ico_ty01"
-                    href="/10497576">首页</a></li>
+                    href="/18253615">首页</a></li>
                 <li class=''><a class="ico_ty02"
-                    href="/10497576/info">个人资料</a></li>
+                    href="/18253615/info">个人资料</a></li>
                 <li class=''><a class="ico_xx05"
-                    href="/10497576/following#pvareaid=104334">
+                    href="/18253615/following#pvareaid=104334">
                     好友</a></li>
             </ul>
             <div class="divide">
@@ -313,10 +313,10 @@
                 论坛</h4>
             <ul class="item">
                 <li class=''><a class="ico_lt01"
-                    href="/10497576/club/topic?pvareaid=104339">
+                    href="/18253615/club/topic?pvareaid=104339">
                     他的主帖</a></li>
                 <li class=''><a class="ico_lt03"
-                    href="/10497576/club/sendreply?pvareaid=104339">
+                    href="/18253615/club/sendreply?pvareaid=104339">
                     他的回复</a></li>
             </ul>
             <div class="divide">
@@ -324,21 +324,21 @@
             <h4>
                 应用</h4>
             <ul class="item">
-                <li class=''><a href="/help/Task/10497576#pvareaid=2072115" class="ico_yy19">他的任务</a><i style="right:26px;" class="icon-test"></i></li>
+                <li class=''><a href="/help/Task/18253615#pvareaid=2072115" class="ico_yy19">他的任务</a><i style="right:26px;" class="icon-test"></i></li>
                 <li class=''><a class="ico_yy12"
-                    href="/10497576/price">他的价格</a></li>
+                    href="/18253615/price">他的价格</a></li>
                                 <li class=''><a class="ico_yy08"
-                    href="/10497576/zhidao#pvareaid=104335">他的知道</a></li>
+                    href="/18253615/zhidao#pvareaid=104335">他的知道</a></li>
                 
                 <li class=''><a class="ico_yy01"
-                    href="/10497576/koubei#pvareaid=104333">他的口碑</a></li>
+                    href="/18253615/koubei#pvareaid=104333">他的口碑</a></li>
                 <li class=''><a class="ico_yy02"
-                    href="/10497576/photo#pvareaid=104338">他的相册</a></li>
+                    href="/18253615/photo#pvareaid=104338">他的相册</a></li>
                 <li class=''><a class="ico_yy04"
-                    href="/10497576/car#pvareaid=104337">他的车库</a></li>
+                    href="/18253615/car#pvareaid=104337">他的车库</a></li>
                 
                    <li class=''><a class="ico_yy05"
-                    href="/10497576/oil#pvareaid=104336">他的油耗</a></li>               
+                    href="/18253615/oil#pvareaid=104336">他的油耗</a></li>               
             </ul>
         </div>
     </div>
@@ -365,7 +365,7 @@
         }
     </script>
 
-    <input type="hidden" id="TuserId" value="10497576" />
+    <input type="hidden" id="TuserId" value="18253615" />
 <!--右侧sidebar开始-->
 		<div class="rightside">
 			<!-- start 用户状态 -->
@@ -374,25 +374,25 @@
 
         
  
-				<h1 class="user-name"><b>红豆GG</b> <i class="icon16 icon16-vorange" style=""></i>                   
+				<h1 class="user-name"><b>泡芙车评是傻x</b> <i class="icon16 icon16-vorange" style=""></i>                   
                              
                     <a href="javascript:;" class="iphone" data-placement="top" data-toggle="tip" data-title="手机已绑定" data-offset="0,-3"></a><em>|</em><span class="man"></span></h1>
 				<div class="user-lv">
 					<!-- start 用户身份 -->
 					<span class="user-id" id="levelName" style="display:none;"></span>
-					<a href="/10497576/apps/ClubAppScores" class="moderator-jifen" id="moderatorPoints" style="display:none;"></a>
+					<a href="/18253615/apps/ClubAppScores" class="moderator-jifen" id="moderatorPoints" style="display:none;"></a>
 					<!-- end 用户身份 -->
 					<!-- start 等级图标 -->
 					<i class="lv-icon lv-stage1 lv-posi" data-target="#userIntegral_span" data-offset="0,65" data-placement="bottom" data-trigger="hover" data-toggle="pop" id="userCar">
 						<span class="lv-txt" id="userGrade"></span>
 					</i>
 					<!-- end 等级图标 -->
-					<a href="/10497576/following" class="state-mes">关注&nbsp;<span>1976</span></a>
-					<a href="/10497576/followers" class="state-mes">粉丝&nbsp;<span>357</span></a>
-					<a class="state-pos"><i class="icon icon-place" data-placement="top" data-toggle="tip" data-title="所在地" data-offset="0,-3"></i>山东 烟台</a>
+					<a href="/18253615/following" class="state-mes">关注&nbsp;<span>1</span></a>
+					<a href="/18253615/followers" class="state-mes">粉丝&nbsp;<span>1</span></a>
+					<a class="state-pos"><i class="icon icon-place" data-placement="top" data-toggle="tip" data-title="所在地" data-offset="0,-3"></i>北京 </a>
 				</div>
 				<div class="user-state">
-					<div class="user-con"><a>积分 <span id="userIntegral1"></span></a><a href="/10497576/club/topic#pvareaid=104347">精华帖 <span id="jhtopicCount"></span></a><a href="/10497576/club/topic#pvareaid=104347" class="last-span">主帖 <span id="topicCount"></span></a></div>
+					<div class="user-con"><a>积分 <span id="userIntegral1"></span></a><a href="/18253615/club/topic#pvareaid=104347">精华帖 <span id="jhtopicCount"></span></a><a href="/18253615/club/topic#pvareaid=104347" class="last-span">主帖 <span id="topicCount"></span></a></div>
 					    	<!-- start 荣誉勋章-->
                     <div id="medalSwitch">
                     <div class="user-honor user-honor-cur">
@@ -422,7 +422,7 @@
 				</div>
 				<!-- end 等级tip -->
 			</div>
-             <input type="hidden" id="mystUrl" value="http://k.autohome.com.cn/myspace/koubei/his/10497576" />
+             <input type="hidden" id="mystUrl" value="http://k.autohome.com.cn/myspace/koubei/his/18253615" />
 			<!-- end 用户状态 -->
 			<!-- start 中心区域 -->
 			<div class="center">
@@ -433,8 +433,8 @@
 				<div class="carport" id="carport" appSort="4" appKey="4" appIsLoad="false">
 					<div class="center-content">
 						<div class="carport-title">
-							<a href="/10497576/car#pvareaid=104341" class="manage-car">他的全部车库</a>
-							<h3><a href="/10497576/car#pvareaid=104337" >他的车库(<span id="carCount"></span>)</a></h3>
+							<a href="/18253615/car#pvareaid=104341" class="manage-car">他的全部车库</a>
+							<h3><a href="/18253615/car#pvareaid=104337" >他的车库(<span id="carCount"></span>)</a></h3>
 						</div>
 						<div class="focus-box">
 							<div class="focusimg focusimg02" id="focusimg02">
@@ -464,7 +464,7 @@
 <div class="my-club" id="my-club" appSort="5" appKey="6">
 					<div class="tab tab02 center-content">
 						<div class="tab-nav">
-							<h3 class="tab-title"><a href="/10497576/club/topic?pvareaid=100200">他的论坛</a></h3>
+							<h3 class="tab-title"><a href="/18253615/club/topic?pvareaid=100200">他的论坛</a></h3>
 							<ul id="myTopicOnClick">
 								<li class="current"><a href="javascript:void(0);"  appIsLoad="false" data-target="#tab-17" tabId="1" data-toggle="tab" id="myTopicTab">他的主帖</a></li>
 								<li><a href="javascript:void(0);" data-target="#tab-12"  appIsLoad="false" data-toggle="tab" tabId="2"  id="myReplysTab">他发出的回复</a></li>
@@ -480,7 +480,7 @@
 									
 								</ul>
                                 <!-- end 我的主帖 无主帖 -->
-								<div class="more" id="myTopicMore" style="display:none;"><a href="/10497576/club/topic?pvareaid=100200">查看全部主帖>></a></div>
+								<div class="more" id="myTopicMore" style="display:none;"><a href="/18253615/club/topic?pvareaid=100200">查看全部主帖>></a></div>
 								<!-- end 我的主帖 有主帖 -->
 							</div>
 							<div id="tab-12" class="tab-content-item">
@@ -490,7 +490,7 @@
 								<ul class="other-club-reply" id="myReplysListData">
 								</ul>
                                 	<!-- end 无回复 -->
-								<div class="more" id="myReplysMore" style="display:none;"><a href="/10497576/club/sendreply?pvareaid=100202" >查看全部回复>></a></div>
+								<div class="more" id="myReplysMore" style="display:none;"><a href="/18253615/club/sendreply?pvareaid=100202" >查看全部回复>></a></div>
 								<!-- end 有回复 -->
 							</div>
                             <div id="tab-13" class="tab-content-item">
@@ -501,7 +501,7 @@
 
 								</ul>
                                 	<!-- end 无回复 -->
-								<div class="more" id="JingHuaHtmlmove" style="display:none;"><a href="/10497576/club/topic?pvareaid=100200" >查看全部精华帖>></a></div>
+								<div class="more" id="JingHuaHtmlmove" style="display:none;"><a href="/18253615/club/topic?pvareaid=100200" >查看全部精华帖>></a></div>
 								<!-- end 有回复 -->
 							</div>
 						</div>
@@ -517,7 +517,7 @@
 <div class="i-box i-koubei">
 					<div class="tab tab02">
 						<div class="tab-nav">
-							<h3 class="tab-title"><a href="http://i.autohome.com.cn/10497576/koubei#pvareaid=104333">口碑</a></h3>
+							<h3 class="tab-title"><a href="http://i.autohome.com.cn/18253615/koubei#pvareaid=104333">口碑</a></h3>
 							<ul>
 								<li class="current"><a data-toggle="tab" data-target="#tab-17-03" href="javascript:void(0);" id="kbeiId">他的口碑</a></li>
 								
@@ -546,99 +546,23 @@
     <div class="attention-people">
         <div style="border: 1px solid #ccd3e4;">
             <h3>
-                
-                <a href="/10497576/following"
-                    class="morelink">更多&gt;&gt;</a>
                 他关注的人</h3>
             <ul>
                 
-                <li ><a href="/10204932" target="_blank"
+                <li ><a href="/9667151" target="_blank"
                     class="people-img">
-                    <img src="http://i0.autoimg.cn/album/userheaders/2015/1/27/297a4260-5615-4965-b5a5-daa01ce68c94_50X50.jpg" alt="" /></a>
+                    <img src="http://i0.autoimg.cn/album/userheaders/2014/6/3/86047f25-d53f-4035-ab14-d2f63c9145f6_50X50.jpg" alt="" /></a>
                     <div class="people-detail">
                         <div class="people-name">
-                            <a href="/10204932" title="96通信科徐国斌">
-                                96通信科徐国…</a>
+                            <a href="/9667151" title="愤怒的羊宝宝">
+                                愤怒的羊宝宝</a>
                             <a target="_blank" href="http://club.autohome.com.cn/bbs/carOwnerCamp.html"
                                   class="sign"></a></div>
                         
                         <div class="people-club">
-                            他关注<a href="/10204932/car">圣达菲经典</a></div>
+                            他关注<a href="/9667151/car">众泰T600</a></div>
                         
-                        <span id="focus_10204932" class="guanzhu" onclick="addFocusUser(10204932,this)">
-                            加关注</span>
-                        
-                    </div>
-                </li>
-                
-                <li ><a href="/18931523" target="_blank"
-                    class="people-img">
-                    <img src="http://i0.autoimg.cn/album/userheaders/2016/1/21/b5d848c7-d15b-46a5-9763-eb87d63326e6_50X50.jpg" alt="" /></a>
-                    <div class="people-detail">
-                        <div class="people-name">
-                            <a href="/18931523" title="WORLDCITYS">
-                                WORLDCITYS</a>
-                            </div>
-                        
-                        <span id="focus_18931523" class="guanzhu" onclick="addFocusUser(18931523,this)">
-                            加关注</span>
-                        
-                    </div>
-                </li>
-                
-                <li ><a href="/24047345" target="_blank"
-                    class="people-img">
-                    <img src="http://x.autoimg.cn/space/images/head_50X50.gif" alt="" /></a>
-                    <div class="people-detail">
-                        <div class="people-name">
-                            <a href="/24047345" title="还我河山吧">
-                                还我河山吧</a>
-                            <a target="_blank" href="http://club.autohome.com.cn/bbs/carOwnerCamp.html"
-                                  class="sign"></a></div>
-                        
-                        <div class="people-club">
-                            他关注<a href="/24047345/car">雅阁</a></div>
-                        
-                        <span id="focus_24047345" class="guanzhu" onclick="addFocusUser(24047345,this)">
-                            加关注</span>
-                        
-                    </div>
-                </li>
-                
-                <li ><a href="/6215303" target="_blank"
-                    class="people-img">
-                    <img src="http://i0.autoimg.cn/album/userheaders/2014/5/14/a9302b54-198c-4df2-b573-e8117d59a3d7_50X50.jpg" alt="" /></a>
-                    <div class="people-detail">
-                        <div class="people-name">
-                            <a href="/6215303" title="牛牛儿的汽车">
-                                牛牛儿的汽车</a>
-                            <a target="_blank" href="http://club.autohome.com.cn/bbs/carOwnerCamp.html"
-                                  class="sign"></a></div>
-                        
-                        <div class="people-club">
-                            他关注<a href="/6215303/car">夏朗</a></div>
-                        
-                        <span id="focus_6215303" class="guanzhu" onclick="addFocusUser(6215303,this)">
-                            加关注</span>
-                        
-                    </div>
-                </li>
-                
-                <li class="people-last"><a href="/839637" target="_blank"
-                    class="people-img">
-                    <img src="http://i0.autoimg.cn/album/userheaders/2013/9/11/79cc96a0-1a7c-4863-86e9-a2da28168733_50X50.jpg" alt="" /></a>
-                    <div class="people-detail">
-                        <div class="people-name">
-                            <a href="/839637" title="伴我高飞">
-                                伴我高飞</a>
-                            <a target="_blank" href="http://club.autohome.com.cn/bbs/carOwnerCamp.html"
-                                  class="sign"></a></div>
-                        
-                        <div class="people-club">
-                            他关注<a href="/839637/car">标致508</a></div>
-                        
-                        <span id="focus_839637" class="guanzhu" onclick="addFocusUser(839637,this)">
-                            加关注</span>
+                        <span class="hadFc">已关注</span>
                         
                     </div>
                 </li>
@@ -949,8 +873,8 @@
         var followersTemp = new Template('http://i.autohome.com.cn/#{id}/#{action}');
         var followingTemp = new Template('http://i.autohome.com.cn/#{id}/#{action}');
         var lastNoticeUrl = '/ajax/base/getlastnotice';
-        var userId = 10497576;
-        var userName='红豆GG';
+        var userId = 18253615;
+        var userName='泡芙车评是傻x';
         $("#sendpm_his").click(function () { SendPrivateLetter(userId, userName); });
         function ReturnToTop() {
             var isIE6 = !!(window.attachEvent && !window.opera && navigator.userAgent.indexOf("MSIE 6") > -1);
@@ -1037,7 +961,7 @@
         var GetNewTopicUrl = '/ajax/garage/GetNewTopic';
         var carPicBySpecIdUrl = '/ajax/home/CarPicBySpecId';
         var getUserInfoUrl = '/ajax/home/GetUserInfo';
-        var otherUserId = '10497576';
+        var otherUserId = '18253615';
         var getBrandListUrl = '/ajax/Garage/GetBranList';
         var garageAjaxUrl = '/ajax/garage/setconcerncar';
         var currentRoleId = parseInt('0');

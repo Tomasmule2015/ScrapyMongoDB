@@ -66,15 +66,15 @@ ITEM_PIPELINES = {
 }
 MONGODB_HOST='127.0.0.1'
 MONGODB_PORT=27017
-MONGODB_DBNAME='autotest'
-MONGODB_DOCNAME='test'
+MONGODB_DBNAME='auto'
+MONGODB_DOCNAME='info'
 MONGODB_UNIQUE_KEY='UseId'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 # NOTE: AutoThrottle will honour the standard settings for concurrency and delay
 #AUTOTHROTTLE_ENABLED=True
 # The initial download delay
-AUTOTHROTTLE_START_DELAY=5
+AUTOTHROTTLE_START_DELAY=1
 # The maximum download delay to be set in case of high latencies
 #AUTOTHROTTLE_MAX_DELAY=60
 # Enable showing throttling stats for every response received:
